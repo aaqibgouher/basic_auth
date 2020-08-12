@@ -1,5 +1,6 @@
-<?php include "database.php"; ?>
+<?php include "database.php"; ?>	<!--included database file here-->
 
+<!-- In header file , only these things will be there -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,6 +22,7 @@
     		margin-top: 50px;
     		padding: 20px;
     	}
+    	
 	</style>
 </head>
 <body>
